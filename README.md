@@ -33,6 +33,11 @@ This application provides information and statistics about the players and manag
   <br><img src="https://github.com/MUSTAFA-Hamzawy/PremierLeagueApplication/blob/master/Screen%20shots/reset%20pass.jpeg" alt="Reset password" width="90%">
   <br><img src="https://github.com/MUSTAFA-Hamzawy/PremierLeagueApplication/blob/master/Screen%20shots/sign%20up%20form.jpeg" alt="Sign up" width="90%">
   <p align="right">(<a href="#top">back to top</a>)</p>
+  <br><img src="https://github.com/MUSTAFA-Hamzawy/PremierLeagueApplication/blob/master/Screen%20shots/WhatsApp%20Image%202022-07-26%20at%207.03.45%20PM.jpeg" alt="add player form" width="90%">
+  <br><img src="https://github.com/MUSTAFA-Hamzawy/PremierLeagueApplication/blob/master/Screen%20shots/WhatsApp%20Image%202022-07-26%20at%207.03.46%20PM%20(1).jpeg" alt="" width="90%">
+  <br><img src="https://github.com/MUSTAFA-Hamzawy/PremierLeagueApplication/blob/master/Screen%20shots/WhatsApp%20Image%202022-07-26%20at%207.03.46%20PM%20(2).jpeg" alt="dashboard" width="90%">
+  <br><img src="https://github.com/MUSTAFA-Hamzawy/PremierLeagueApplication/blob/master/Screen%20shots/WhatsApp%20Image%202022-07-26%20at%207.03.46%20PM%20(3).jpeg" alt="" width="90%">
+  <br><img src="https://github.com/MUSTAFA-Hamzawy/PremierLeagueApplication/blob/master/Screen%20shots/WhatsApp%20Image%202022-07-26%20at%207.03.46%20PM.jpeg" alt="" width="90%">
   <br><h2>Database Schema</h2>
   <br><img src="https://raw.githubusercontent.com/MUSTAFA-Hamzawy/PremierLeagueApplication/master/Screen%20shots/DB-Schema.png" alt="db-schema" width="90%">
   <p align="right">(<a href="#top">back to top</a>)</p>
