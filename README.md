@@ -17,10 +17,10 @@ This application provides information and statistics about the players and manag
 
 ### Built With
 
-<img  src="https://raw.githubusercontent.com/MUSTAFA-Hamzawy/MUSTAFA-Hamzawy/main/logos/languages/c%23.svg" alt="C#" width="50" height="50"/> &nbsp;
-<img  src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg" alt="MySql" width="50" height="50"/>
-<img  src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS sql server" width="60" height="50"/> &nbsp;
-<img  src="https://www.vhv.rs/dpng/d/523-5237557_visual-studio-logo-png-transparent-png.png" alt="VS" width="70" height="50"/> &nbsp;
+<img  src="https://raw.githubusercontent.com/MUSTAFA-Hamzawy/MUSTAFA-Hamzawy/main/logos/languages/c%23.svg" alt="C#" width="80" height="50"/> &nbsp;
+<img  src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg" alt="MySql" width="80" height="50"/>
+<img  src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS sql server" width="80" height="50"/> &nbsp;
+<img  src="https://www.vhv.rs/dpng/d/523-5237557_visual-studio-logo-png-transparent-png.png" alt="VS" width="80" height="50"/> &nbsp;
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -37,6 +37,18 @@ This application provides information and statistics about the players and manag
   <br><h2>ER Model</h2>
   <br><img src="https://raw.githubusercontent.com/MUSTAFA-Hamzawy/PremierLeagueApplication/master/Screen%20shots/ER%20model.PNG" alt="ER-Diagram" width="90%">
  </div>
+ 
+ ### Constraints
+ 
+ |     Entity     |       Constraint       |     On Upadte     |     On Delete     |
+|:-----------------:|:--------------:|:-----------------:|:--------------:|
+|Coach|FK_Coach_team|No Action | No Action|
+|Coach|FK_player_coach|Cascade|Set NULL|
+|Manager|FK_Manger_team|No Action|No Action|
+|Player|FK_player_coach|Cascade|Set NULL|
+|Player|FK_player_team|Cascade|Set NULL|
+|Supervisor_Assistant|FK_supervisor_assistant_supervisor|Cascade|Set NULL|
+
  
 ### Contributors
 <table id="Contributors">
